@@ -1,0 +1,12 @@
+/build
+/bin
+.abi
+.bin
+/node_modules
+/tmp
+/cmd/bin
+.env
+/installed_contracts
+*.lock
+*.log
+package-lock.json

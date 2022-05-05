@@ -1,0 +1,8 @@
+// solidity compiler
+sudo snap install solc --edge
+// abigen tools
+go get -u github.com/ethereum/go-ethereum
+cd /home/hera/gocode/pkg/mod/github.com/ethereum/go-ethereum@v1.10.3
+make
+make devtools
+// Have to update my go to another path accessible by sudo
